@@ -1,18 +1,21 @@
 {
   "files": {
     "main.css": "/landmeter-geenen/static/css/main.e4c5e1e7.css",
-    "main.js": "/landmeter-geenen/static/js/main.f49d8837.js",
+    "main.js": "/landmeter-geenen/static/js/main.8e0367e8.js",
     "static/js/453.0976922c.chunk.js": "/landmeter-geenen/static/js/453.0976922c.chunk.js",
+    "static/media/environmental-permit.jpg": "/landmeter-geenen/static/media/environmental-permit.c0a46743cc72671b25c5.jpg",
     "static/media/construction-building.png": "/landmeter-geenen/static/media/construction-building.473669aadfc4cb380e1f.png",
+    "static/media/property-valuation.jpg": "/landmeter-geenen/static/media/property-valuation.bdd73c8575fd9a7cc2a4.jpg",
+    "static/media/site-description.png": "/landmeter-geenen/static/media/site-description.287f0cd430d64d573b7a.png",
     "static/media/surveyor.png": "/landmeter-geenen/static/media/surveyor.5e422750d78a125de5b5.png",
     "static/media/Landmeter-logo-white.png": "/landmeter-geenen/static/media/Landmeter-logo-white.60883a7c723cbf00f520.png",
     "index.html": "/landmeter-geenen/index.html",
     "main.e4c5e1e7.css.map": "/landmeter-geenen/static/css/main.e4c5e1e7.css.map",
-    "main.f49d8837.js.map": "/landmeter-geenen/static/js/main.f49d8837.js.map",
+    "main.8e0367e8.js.map": "/landmeter-geenen/static/js/main.8e0367e8.js.map",
     "453.0976922c.chunk.js.map": "/landmeter-geenen/static/js/453.0976922c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e4c5e1e7.css",
-    "static/js/main.f49d8837.js"
+    "static/js/main.8e0367e8.js"
   ]
 }
